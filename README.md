@@ -1,6 +1,5 @@
-# NTHU Badminton Court Booker
+# NTHU Badminton Court
 
-## Usage
-### Step1. Get Your Session Id from your browser
-
-### Step2. Create a shell script to run reserve.py
+## Steps
+1. Get Your Session Id from browser
+2. Create a shell script to run reserve.py
